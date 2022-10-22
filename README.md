@@ -5,4 +5,7 @@ A website that is used as a timer for how much time you spend learning, and the 
 
 The design will be simple, using html and css. The hard part will be the timer, cause I want it to work like a broken hourglass, pouring it's content in a glass, just like in the following image
 
-![Raw idea](https://github.com/[Platykin]/[Thousand-Hours]/blob/[main]/image.jpg?raw=true)
+<p align="center">
+  <img src="main/idea de site 1000 horas.png" width="350" title="raw idea">
+  <img src="idea de site 1000 horas.png" width="350" alt="raw idea">
+</p>
